@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://VeronicaBlake.github.io/blogsitemap.xml
